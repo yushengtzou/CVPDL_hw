@@ -1,0 +1,400 @@
+{
+    "IMG_8512_MOV-2_jpg.rf.00f06559a0df06b71002d0b3dbf1804c.jpg": {
+        "height": 576,
+        "width": 1024,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.21,
+                        0.4,
+                        0.67,
+                        0.77
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a fish in an aquarium with a large rock",
+        "prompt_w_label": "a fish in an aquarium with a large rock, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "a fish in an aquarium with a large rock, fish, height: 576, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2361_jpeg_jpg.rf.02195fab4639c0b58bef41a6944fda9d.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.26,
+                        0.41,
+                        0.7,
+                        0.76
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a fish swimming in an aquarium with rocks",
+        "prompt_w_label": "a fish swimming in an aquarium with rocks, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in an aquarium with rocks, fish, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2406_jpeg_jpg.rf.1188b08782ffbc29af95b22721ca6015.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.36,
+                        0.45,
+                        0.75,
+                        0.66
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a black and white fish in an aquarium",
+        "prompt_w_label": "a black and white fish in an aquarium, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a black and white fish in an aquarium, fish, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2409_jpeg_jpg.rf.2de52b31d07502007ce8e96350212d7c.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.34,
+                        0.4,
+                        0.89,
+                        0.7
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a black and white fish in an aquarium",
+        "prompt_w_label": "a black and white fish in an aquarium, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a black and white fish in an aquarium, fish, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8520_jpg.rf.68bab0b4a111aa5bdad529f65b21edfd.jpg": {
+        "height": 768,
+        "width": 1024,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.34,
+                        0.4,
+                        0.45,
+                        0.55
+                    ]
+                ]
+            }
+        },
+        "generated_text": "clown fish in the aquarium",
+        "prompt_w_label": "clown fish in the aquarium, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "clown fish in the aquarium, fish, height: 768, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2503_jpeg_jpg.rf.726342a02d92d30abc147f6e71fe3baf.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.28,
+                        0.34,
+                        0.73,
+                        0.86
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in an aquarium",
+        "prompt_w_label": "a shark swimming in an aquarium, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium, fish, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8550_jpg.rf.7f9f25d5d968b77bc0664fb82fc9a9c9.jpg": {
+        "height": 768,
+        "width": 1024,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.29,
+                        0.0,
+                        0.51,
+                        0.81
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a fish with a yellow and black body is swimming in the water",
+        "prompt_w_label": "a fish with a yellow and black body is swimming in the water, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish with a yellow and black body is swimming in the water, fish, height: 768, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8502_jpg.rf.81783141b72ae29e514d677ca0f5082d.jpg": {
+        "height": 768,
+        "width": 1024,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.27,
+                        0.26,
+                        0.53,
+                        0.8
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a large fish is in the water in an aquarium",
+        "prompt_w_label": "a large fish is in the water in an aquarium, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a large fish is in the water in an aquarium, fish, height: 768, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8327_jpg.rf.b859bdc46f8f4aaf4d1ff2b902e276df.jpg": {
+        "height": 768,
+        "width": 1024,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.04,
+                        0.21,
+                        0.57,
+                        0.88
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a catfish in an aquarium with rocks and water",
+        "prompt_w_label": "a catfish in an aquarium with rocks and water, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a catfish in an aquarium with rocks and water, fish, height: 768, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2382_jpeg_jpg.rf.b431ad0ed94761ef82281dbe844170cc.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.12,
+                        0.37,
+                        0.95,
+                        0.69
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a fish in an aquarium with rocks and water",
+        "prompt_w_label": "a fish in an aquarium with rocks and water, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish in an aquarium with rocks and water, fish, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8461_jpg.rf.c1f3ef25fac44501963625279e8ca614.jpg": {
+        "height": 768,
+        "width": 1024,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.25,
+                        0.25,
+                        0.36,
+                        0.47
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a fish is on the ground next to a rock",
+        "prompt_w_label": "a fish is on the ground next to a rock, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish is on the ground next to a rock, fish, height: 768, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8328_jpg.rf.c7cdca0b7dc7a6ac3c44254a11bd63cc.jpg": {
+        "height": 768,
+        "width": 1024,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.06,
+                        0.08,
+                        0.81,
+                        0.81
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a catfish is swimming in an aquarium",
+        "prompt_w_label": "a catfish is swimming in an aquarium, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a catfish is swimming in an aquarium, fish, height: 768, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8319_jpg.rf.d9c66db153b1293af6ce36c1e4f6455c.jpg": {
+        "height": 768,
+        "width": 1024,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.13,
+                        0.19,
+                        0.4,
+                        0.75
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a fish in an aquarium with a large rock",
+        "prompt_w_label": "a fish in an aquarium with a large rock, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "a fish in an aquarium with a large rock, fish, height: 768, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8512_MOV-4_jpg.rf.e879ecc625c150dfb308030a737ff9c5.jpg": {
+        "height": 576,
+        "width": 1024,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.69,
+                        0.32,
+                        0.94,
+                        0.48
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a large fish is swimming in an aquarium",
+        "prompt_w_label": "a large fish is swimming in an aquarium, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "a large fish is swimming in an aquarium, fish, height: 576, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2375_jpeg_jpg.rf.ed73b2179f3b96fe3088456fc43a2cf5.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.07,
+                        0.35,
+                        0.99,
+                        0.7
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a large fish swimming in an aquarium",
+        "prompt_w_label": "a large fish swimming in an aquarium, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a large fish swimming in an aquarium, fish, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8549_jpg.rf.ee5f8f7fa2cae6f1e528e1b350ad4046.jpg": {
+        "height": 768,
+        "width": 1024,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.2,
+                        0.47,
+                        0.5,
+                        0.71
+                    ]
+                ]
+            }
+        },
+        "generated_text": "clown fish in the aquarium",
+        "prompt_w_label": "clown fish in the aquarium, fish, height: 768, width: 1024",
+        "prompt_w_suffix": "clown fish in the aquarium, fish, height: 768, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2358_jpeg_jpg.rf.efdef53aafee680685b00990131e1442.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.11,
+                        0.37,
+                        0.8,
+                        0.67
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a fish in an aquarium with rocks and water",
+        "prompt_w_label": "a fish in an aquarium with rocks and water, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish in an aquarium with rocks and water, fish, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2377_jpeg_jpg.rf.058bc10292405404b78e4d6ec8315b44.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.1,
+                        0.44,
+                        0.56,
+                        0.88
+                    ],
+                    [
+                        0.35,
+                        0.34,
+                        0.89,
+                        0.56
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a large fish in an aquarium with a rock wall",
+        "prompt_w_label": "a large fish in an aquarium with a rock wall, fish, height: 1024, width: 768",
+        "prompt_w_suffix": "a large fish in an aquarium with a rock wall, fish, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8512_MOV-6_jpg.rf.02aa66e66ae9d7a5756bd29399a39936.jpg": {
+        "height": 576,
+        "width": 1024,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.15,
+                        0.59,
+                        0.6,
+                        0.95
+                    ],
+                    [
+                        0.62,
+                        0.21,
+                        0.87,
+                        0.55
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a fish in an aquarium with a blue and white fish",
+        "prompt_w_label": "a fish in an aquarium with a blue and white fish, fish, height: 576, width: 1024",
+        "prompt_w_suffix": "a fish in an aquarium with a blue and white fish, fish, height: 576, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8551_MOV-0_jpg.rf.13c7f883c88334a6674eea274024d390.jpg": {
+        "height": 1024,
+        "width": 576,
+        "labels": {
+            "fish": {
+                "bboxs": [
+                    [
+                        0.31,
+                        0.3,
+                        0.66,
+                        0.38
+                    ],
+                    [
+                        0.0,
+                        0.18,
+                        0.1,
+                        0.28
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a colorful fish in an aquarium with some coral",
+        "prompt_w_label": "a colorful fish in an aquarium with some coral, fish, height: 1024, width: 576",
+        "prompt_w_suffix": "a colorful fish in an aquarium with some coral, fish, height: 1024, width: 576, ocean, undersea background, HD quality, high detailed"
+    }
+}

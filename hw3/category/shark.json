@@ -1,0 +1,382 @@
+{
+    "IMG_8410_jpg.rf.080d0f9f09ffb56da86e800ed8e37df7.jpg": {
+        "height": 768,
+        "width": 1024,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.39,
+                        0.26,
+                        0.65,
+                        0.85
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in an aquarium with a blue light",
+        "prompt_w_label": "a shark swimming in an aquarium with a blue light, shark, height: 768, width: 1024",
+        "prompt_w_suffix": "a shark swimming in an aquarium with a blue light, shark, height: 768, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2509_jpeg_jpg.rf.0c8d6158f08975bd24497a5fb02572d2.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.0,
+                        0.43,
+                        0.92,
+                        1.0
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark is swimming in an aquarium",
+        "prompt_w_label": "a shark is swimming in an aquarium, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark is swimming in an aquarium, shark, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8572_MOV-0_jpg.rf.1a301d11ffdd3cb15653d44ea193ff1e.jpg": {
+        "height": 1024,
+        "width": 576,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.0,
+                        0.18,
+                        0.74,
+                        0.42
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in an aquarium at night",
+        "prompt_w_label": "a shark swimming in an aquarium at night, shark, height: 1024, width: 576",
+        "prompt_w_suffix": "a shark swimming in an aquarium at night, shark, height: 1024, width: 576, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2513_jpeg_jpg.rf.1c33f6aee29f24622179b3c188effe59.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.29,
+                        0.07,
+                        0.87,
+                        0.2
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in an aquarium",
+        "prompt_w_label": "a shark swimming in an aquarium, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium, shark, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8575_jpg.rf.1cf3080cdc0d1afae6f57dbd147c9e3c.jpg": {
+        "height": 768,
+        "width": 1024,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.0,
+                        0.42,
+                        0.97,
+                        0.88
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in an aquarium with its tail out",
+        "prompt_w_label": "a shark swimming in an aquarium with its tail out, shark, height: 768, width: 1024",
+        "prompt_w_suffix": "a shark swimming in an aquarium with its tail out, shark, height: 768, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8570_jpg.rf.22a9bfaa76e035e692aaac3a49df03b8.jpg": {
+        "height": 768,
+        "width": 1024,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.29,
+                        0.0,
+                        0.5,
+                        0.61
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in an aquarium with a light",
+        "prompt_w_label": "a shark swimming in an aquarium with a light, shark, height: 768, width: 1024",
+        "prompt_w_suffix": "a shark swimming in an aquarium with a light, shark, height: 768, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2511_jpeg_jpg.rf.4593a8e1ea4e285da455b895a36fa2c7.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.1,
+                        0.33,
+                        0.72,
+                        0.72
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in an aquarium with rocks",
+        "prompt_w_label": "a shark swimming in an aquarium with rocks, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium with rocks, shark, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2507_jpeg_jpg.rf.51612d3065ddd5d951909ca543e84bb7.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.5,
+                        0.42,
+                        0.73,
+                        0.67
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in the water near rocks",
+        "prompt_w_label": "a shark swimming in the water near rocks, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in the water near rocks, shark, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2643_jpeg_jpg.rf.5a7752897b56469837e946255d67337d.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.0,
+                        0.29,
+                        0.89,
+                        1.0
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in an aquarium with a large fish",
+        "prompt_w_label": "a shark swimming in an aquarium with a large fish, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium with a large fish, shark, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2508_jpeg_jpg.rf.6341e9035957fcc1420ec41cd9176b7a.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.28,
+                        0.49,
+                        0.71,
+                        0.7
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in an aquarium",
+        "prompt_w_label": "a shark swimming in an aquarium, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark swimming in an aquarium, shark, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8572_MOV-2_jpg.rf.70025aa545c1d5039981b13562400636.jpg": {
+        "height": 1024,
+        "width": 576,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.0,
+                        0.46,
+                        1.0,
+                        0.9
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in the dark at night",
+        "prompt_w_label": "a shark swimming in the dark at night, shark, height: 1024, width: 576",
+        "prompt_w_suffix": "a shark swimming in the dark at night, shark, height: 1024, width: 576, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2516_jpeg_jpg.rf.6f719df754865fe6166afd0a3a78d60f.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.43,
+                        0.45,
+                        0.63,
+                        0.6
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a large aquarium with a shark in it",
+        "prompt_w_label": "a large aquarium with a shark in it, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a large aquarium with a shark in it, shark, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8578_MOV-1_jpg.rf.7ba2500fc572cf5045ab9880ae2ed106.jpg": {
+        "height": 576,
+        "width": 1024,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.12,
+                        0.28,
+                        0.54,
+                        0.8
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in the dark in an aquarium",
+        "prompt_w_label": "a shark swimming in the dark in an aquarium, shark, height: 576, width: 1024",
+        "prompt_w_suffix": "a shark swimming in the dark in an aquarium, shark, height: 576, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2432_jpeg_jpg.rf.b0839d3e7f6a6fbc8f15a4e0ef385b7f.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.27,
+                        0.49,
+                        0.83,
+                        0.65
+                    ]
+                ]
+            }
+        },
+        "generated_text": "people in a glass tunnel looking at sharks",
+        "prompt_w_label": "people in a glass tunnel looking at sharks, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "people in a glass tunnel looking at sharks, shark, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8571_MOV-1_jpg.rf.b22e2df287efb2b9ecd33c88a607e31e.jpg": {
+        "height": 1024,
+        "width": 576,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.04,
+                        0.29,
+                        1.0,
+                        0.52
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in the dark at night",
+        "prompt_w_label": "a shark swimming in the dark at night, shark, height: 1024, width: 576",
+        "prompt_w_suffix": "a shark swimming in the dark at night, shark, height: 1024, width: 576, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8496_MOV-1_jpg.rf.bfb30108c5b8c7ebd0b92028435ba919.jpg": {
+        "height": 1024,
+        "width": 576,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.0,
+                        0.46,
+                        0.45,
+                        0.63
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in an aquarium with a log",
+        "prompt_w_label": "a shark swimming in an aquarium with a log, shark, height: 1024, width: 576",
+        "prompt_w_suffix": "a shark swimming in an aquarium with a log, shark, height: 1024, width: 576, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2515_jpeg_jpg.rf.c7255981abc23128903ac9ece1b4d8b5.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.39,
+                        0.51,
+                        0.77,
+                        0.66
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark in a tank",
+        "prompt_w_label": "a shark in a tank, shark, height: 1024, width: 768",
+        "prompt_w_suffix": "a shark in a tank, shark, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8571_MOV-5_jpg.rf.c8b11ac37b7b57b79bba5e4aec07ad73.jpg": {
+        "height": 1024,
+        "width": 576,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.0,
+                        0.44,
+                        0.21,
+                        0.59
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in the dark at night",
+        "prompt_w_label": "a shark swimming in the dark at night, shark, height: 1024, width: 576",
+        "prompt_w_suffix": "a shark swimming in the dark at night, shark, height: 1024, width: 576, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8439_jpg.rf.e784fd1e3cd2e38fb7c169e2e54ad91e.jpg": {
+        "height": 768,
+        "width": 1024,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.29,
+                        0.13,
+                        0.47,
+                        0.92
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a man looking at a shark in an aquarium",
+        "prompt_w_label": "a man looking at a shark in an aquarium, shark, height: 768, width: 1024",
+        "prompt_w_suffix": "a man looking at a shark in an aquarium, shark, height: 768, width: 1024, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_8571_MOV-0_jpg.rf.f4ca11babed3711ce449c6a066be33a5.jpg": {
+        "height": 1024,
+        "width": 576,
+        "labels": {
+            "shark": {
+                "bboxs": [
+                    [
+                        0.07,
+                        0.29,
+                        1.0,
+                        0.5
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a shark swimming in an aquarium with blue lights",
+        "prompt_w_label": "a shark swimming in an aquarium with blue lights, shark, height: 1024, width: 576",
+        "prompt_w_suffix": "a shark swimming in an aquarium with blue lights, shark, height: 1024, width: 576, ocean, undersea background, HD quality, high detailed"
+    }
+}

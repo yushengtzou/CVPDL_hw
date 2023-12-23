@@ -1,0 +1,442 @@
+{
+    "IMG_2309_jpeg_jpg.rf.088f73ff0b07c30ce6212eb4e3013708.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.36,
+                        0.45,
+                        0.65,
+                        0.52
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a fish swimming in the water",
+        "prompt_w_label": "a fish swimming in the water, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a fish swimming in the water, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2330_jpeg_jpg.rf.5d358782dd868884a99f4f88841d2287.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.2,
+                        0.43,
+                        0.49,
+                        0.61
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in the water",
+        "prompt_w_label": "a penguin swimming in the water, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2311_jpeg_jpg.rf.69797c0319ca881b5c5bc7637e9e7aa7.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.08,
+                        0.38,
+                        0.92,
+                        0.69
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in an aquarium",
+        "prompt_w_label": "a penguin swimming in an aquarium, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2349_jpeg_jpg.rf.743d7a69284c7ee65b40548c2803bd34.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.21,
+                        0.33,
+                        0.83,
+                        0.6
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin is swimming in the water",
+        "prompt_w_label": "a penguin is swimming in the water, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin is swimming in the water, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2308_jpeg_jpg.rf.7f5bc9634b415d515784dc7ae7a83532.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.1,
+                        0.39,
+                        0.77,
+                        0.71
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in the water at the zoo",
+        "prompt_w_label": "a penguin swimming in the water at the zoo, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water at the zoo, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2310_jpeg_jpg.rf.89adac79fea2745dae17668703c85ba2.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.31,
+                        0.24,
+                        0.62,
+                        0.64
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in an aquarium",
+        "prompt_w_label": "a penguin swimming in an aquarium, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2312_jpeg_jpg.rf.92a094761408320b749e7fd4e4b98b91.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.22,
+                        0.42,
+                        1.0,
+                        0.82
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in the water",
+        "prompt_w_label": "a penguin swimming in the water, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2302_jpeg_jpg.rf.aa8d7da0c33370589f2b441c7ca26450.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.29,
+                        0.48,
+                        0.65,
+                        0.59
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in an aquarium",
+        "prompt_w_label": "a penguin swimming in an aquarium, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2316_jpeg_jpg.rf.bb8de66895ac8751f348c5df631f46ad.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.0,
+                        0.45,
+                        0.67,
+                        0.7
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in an aquarium",
+        "prompt_w_label": "a penguin swimming in an aquarium, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2350_jpeg_jpg.rf.c77c8bea4bbacefbccb48673c5f40171.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.5,
+                        0.3,
+                        0.79,
+                        0.46
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in the water",
+        "prompt_w_label": "a penguin swimming in the water, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2328_jpeg_jpg.rf.ee3309e0a5ab09d96d9ed30bc1c1115f.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.38,
+                        0.56,
+                        0.55,
+                        0.66
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a turtle swimming in the water at the zoo",
+        "prompt_w_label": "a turtle swimming in the water at the zoo, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a turtle swimming in the water at the zoo, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2327_jpeg_jpg.rf.23ca4add8919548516415c9fe02eedf6.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.12,
+                        0.65,
+                        0.7,
+                        0.96
+                    ],
+                    [
+                        0.26,
+                        0.51,
+                        0.52,
+                        0.6
+                    ]
+                ]
+            }
+        },
+        "generated_text": "two penguins swimming in an aquarium",
+        "prompt_w_label": "two penguins swimming in an aquarium, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "two penguins swimming in an aquarium, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2324_jpeg_jpg.rf.1f5efa1adc71c46d5037bdcd281056b9.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.63,
+                        0.43,
+                        1.0,
+                        0.57
+                    ],
+                    [
+                        0.04,
+                        0.49,
+                        0.3,
+                        0.56
+                    ]
+                ]
+            }
+        },
+        "generated_text": "penguin swimming in the water",
+        "prompt_w_label": "penguin swimming in the water, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "penguin swimming in the water, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2528_jpeg_jpg.rf.2bd17b3a6751de79eab0f91356230d98.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.45,
+                        0.4,
+                        0.89,
+                        0.59
+                    ],
+                    [
+                        0.21,
+                        0.5,
+                        0.45,
+                        0.56
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in an aquarium",
+        "prompt_w_label": "a penguin swimming in an aquarium, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2527_jpeg_jpg.rf.3de0e3c95781ea109647310c017ca1fc.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.34,
+                        0.41,
+                        0.88,
+                        0.64
+                    ],
+                    [
+                        0.22,
+                        0.49,
+                        0.37,
+                        0.57
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in an aquarium with rocks and water",
+        "prompt_w_label": "a penguin swimming in an aquarium with rocks and water, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium with rocks and water, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2331_jpeg_jpg.rf.430bebeabaa960aedfce00821dbf1823.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.0,
+                        0.19,
+                        0.33,
+                        0.52
+                    ],
+                    [
+                        0.32,
+                        0.6,
+                        0.63,
+                        0.7
+                    ]
+                ]
+            }
+        },
+        "generated_text": "two penguins swimming in an aquarium",
+        "prompt_w_label": "two penguins swimming in an aquarium, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "two penguins swimming in an aquarium, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2352_jpeg_jpg.rf.b91c732f98fab8234ac4ec50f25a7c32.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.54,
+                        0.33,
+                        0.96,
+                        0.54
+                    ],
+                    [
+                        0.14,
+                        0.43,
+                        0.43,
+                        0.51
+                    ]
+                ]
+            }
+        },
+        "generated_text": "penguins swimming in the water at the zoo",
+        "prompt_w_label": "penguins swimming in the water at the zoo, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "penguins swimming in the water at the zoo, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2338_jpeg_jpg.rf.e7ed2b02a8b79ecfbf78d943ab27d48c.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.0,
+                        0.61,
+                        0.69,
+                        0.85
+                    ],
+                    [
+                        0.25,
+                        0.1,
+                        0.75,
+                        0.21
+                    ]
+                ]
+            }
+        },
+        "generated_text": "two penguins swimming in an aquarium",
+        "prompt_w_label": "two penguins swimming in an aquarium, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "two penguins swimming in an aquarium, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2351_jpeg_jpg.rf.edf3aaeca6e2355052e41c0cc57f9cb6.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.0,
+                        0.29,
+                        0.47,
+                        0.48
+                    ],
+                    [
+                        0.45,
+                        0.44,
+                        0.8,
+                        0.5
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swims in the water at the zoo",
+        "prompt_w_label": "a penguin swims in the water at the zoo, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swims in the water at the zoo, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2529_jpeg_jpg.rf.16e64348ddac68d55ee82e98b0258080.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "penguin": {
+                "bboxs": [
+                    [
+                        0.09,
+                        0.54,
+                        0.8,
+                        0.79
+                    ],
+                    [
+                        0.44,
+                        0.13,
+                        0.85,
+                        0.31
+                    ],
+                    [
+                        0.06,
+                        0.18,
+                        0.29,
+                        0.24
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swims in an aquarium with a penguin in the background",
+        "prompt_w_label": "a penguin swims in an aquarium with a penguin in the background, penguin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swims in an aquarium with a penguin in the background, penguin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    }
+}

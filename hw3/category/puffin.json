@@ -1,0 +1,430 @@
+{
+    "IMG_3160_jpeg_jpg.rf.05d38ee75197d98ea070e8aa03a5bfcb.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.36,
+                        0.54,
+                        0.6,
+                        0.73
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in an aquarium",
+        "prompt_w_label": "a penguin swimming in an aquarium, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in an aquarium, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2293_jpeg_jpg.rf.0a25194b094d64e91068eaa7fcaf4feb.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.23,
+                        0.32,
+                        0.66,
+                        0.68
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in the water",
+        "prompt_w_label": "a penguin swimming in the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2292_jpeg_jpg.rf.122a0051d4d65d8651089a2ebbc2ed85.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.19,
+                        0.23,
+                        0.85,
+                        0.63
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in the water",
+        "prompt_w_label": "a penguin swimming in the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_3146_jpeg_jpg.rf.2a4d1b21ca18859f03d310845ee1a426.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.22,
+                        0.38,
+                        0.66,
+                        0.7
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a bird swimming in water",
+        "prompt_w_label": "a bird swimming in water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a bird swimming in water, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_3156_jpeg_jpg.rf.330ea62dfe1c5108c408331acc17cd6a.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.46,
+                        0.28,
+                        0.69,
+                        0.39
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in a tank with rocks",
+        "prompt_w_label": "a penguin swimming in a tank with rocks, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in a tank with rocks, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2290_jpeg_jpg.rf.3698fd48defd03b2550f7ba8b68314ee.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.29,
+                        0.3,
+                        0.88,
+                        0.69
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin is flying through the water",
+        "prompt_w_label": "a penguin is flying through the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin is flying through the water, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2520_jpeg_jpg.rf.4cab9c74da59c93865ed205f4dcf8c46.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.18,
+                        0.31,
+                        0.46,
+                        0.48
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin is swimming in a tank",
+        "prompt_w_label": "a penguin is swimming in a tank, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin is swimming in a tank, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2295_jpeg_jpg.rf.498a525f58666743ef5d65b7f6438adc.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.45,
+                        0.42,
+                        0.75,
+                        0.52
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in the water near rocks",
+        "prompt_w_label": "a penguin swimming in the water near rocks, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water near rocks, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2282_jpeg_jpg.rf.510f3bc14c3e0aa378b192199d01cae6.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.41,
+                        0.41,
+                        0.79,
+                        0.55
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in a pool with rocks",
+        "prompt_w_label": "a penguin swimming in a pool with rocks, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in a pool with rocks, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2291_jpeg_jpg.rf.78e908bd2cc12eafc40a5bf3101b8b39.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.28,
+                        0.24,
+                        0.96,
+                        0.5
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in the water",
+        "prompt_w_label": "a penguin swimming in the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2524_jpeg_jpg.rf.87f4a069ac66bc31523d434d04f9d2d6.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.36,
+                        0.38,
+                        0.79,
+                        0.69
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a bird is swimming in the water",
+        "prompt_w_label": "a bird is swimming in the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a bird is swimming in the water, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_3132_jpeg_jpg.rf.bc9492bc4b33309ca664cc27baa03a1b.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.35,
+                        0.25,
+                        0.44,
+                        0.37
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a man in a wet suit swimming in a pool",
+        "prompt_w_label": "a man in a wet suit swimming in a pool, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a man in a wet suit swimming in a pool, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2294_jpeg_jpg.rf.be432d5740148075ba72a4194c788a0c.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.09,
+                        0.15,
+                        0.22,
+                        0.24
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swims in the water at the zoo",
+        "prompt_w_label": "a penguin swims in the water at the zoo, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swims in the water at the zoo, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2287_jpeg_jpg.rf.cce12b7bb4e49aa145398504aef84c99.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.08,
+                        0.17,
+                        0.73,
+                        0.66
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin is swimming in the water",
+        "prompt_w_label": "a penguin is swimming in the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin is swimming in the water, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_3149_jpeg_jpg.rf.ec910aff6521c2af1a1bcbe5887b07f7.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.24,
+                        0.16,
+                        0.61,
+                        0.59
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a bird is swimming in the water",
+        "prompt_w_label": "a bird is swimming in the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a bird is swimming in the water, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2296_jpeg_jpg.rf.56a86afeeeb9a6c12746f77b7346ff19.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.42,
+                        0.12,
+                        0.67,
+                        0.22
+                    ],
+                    [
+                        0.6,
+                        0.55,
+                        0.84,
+                        0.65
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in the water",
+        "prompt_w_label": "a penguin swimming in the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_3151_jpeg_jpg.rf.6850702bb295c76afc9dd667b8d827dc.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.36,
+                        0.46,
+                        0.64,
+                        0.57
+                    ],
+                    [
+                        0.54,
+                        0.17,
+                        0.66,
+                        0.26
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a view of a waterfall from inside a glass enclosure",
+        "prompt_w_label": "a view of a waterfall from inside a glass enclosure, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a view of a waterfall from inside a glass enclosure, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_3147_jpeg_jpg.rf.fc4622004ff72e58b546635774372fe2.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.12,
+                        0.38,
+                        0.74,
+                        0.8
+                    ],
+                    [
+                        0.09,
+                        0.32,
+                        0.17,
+                        0.39
+                    ],
+                    [
+                        0.8,
+                        0.11,
+                        0.98,
+                        0.18
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin is swimming in the water",
+        "prompt_w_label": "a penguin is swimming in the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin is swimming in the water, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_3158_jpeg_jpg.rf.0f2bac58bc2e3ca07172215f073a2dab.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.01,
+                        0.45,
+                        0.25,
+                        0.66
+                    ],
+                    [
+                        0.23,
+                        0.35,
+                        0.46,
+                        0.41
+                    ],
+                    [
+                        0.52,
+                        0.15,
+                        0.84,
+                        0.33
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a penguin swimming in the water",
+        "prompt_w_label": "a penguin swimming in the water, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a penguin swimming in the water, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    },
+    "IMG_2285_jpeg_jpg.rf.4a93d99b9f0b6cccfb27bf2f4a13b99e.jpg": {
+        "height": 1024,
+        "width": 768,
+        "labels": {
+            "puffin": {
+                "bboxs": [
+                    [
+                        0.25,
+                        0.3,
+                        0.41,
+                        0.46
+                    ],
+                    [
+                        0.14,
+                        0.31,
+                        0.24,
+                        0.45
+                    ],
+                    [
+                        0.5,
+                        0.33,
+                        0.72,
+                        0.53
+                    ]
+                ]
+            }
+        },
+        "generated_text": "a group of birds sitting on a rock in a pool",
+        "prompt_w_label": "a group of birds sitting on a rock in a pool, puffin, height: 1024, width: 768",
+        "prompt_w_suffix": "a group of birds sitting on a rock in a pool, puffin, height: 1024, width: 768, ocean, undersea background, HD quality, high detailed"
+    }
+}
