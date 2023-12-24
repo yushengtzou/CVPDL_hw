@@ -26,16 +26,16 @@
 ### 2. Text-to-Image Generation
 #### a. Generate Images from Text Grounding
 
-* Images were generated using all three prompts, with results saved in ```result_23```
+* Images were generated using all three prompts, with results saved in ```2_prompts2GenerateImage```
 
 ### b. Generate Images from Image Grounding
-* Following the same approach as in section 2a, results are stored in ```result_23```
+* Following the same approach as in section 2a, results are stored in ```2_prompts2GenerateImage```
 
 ### 3. Compare FID
 
 * Text Grounding
 
-  * I would compare the performance of all three prompts created earliar.The FID scores are stored in ```result_23``` and shown here:
+  * I would compare the performance of all three prompts created earliar.The FID scores are stored in ```2_prompts2GenerateImage``` and shown here:
 
     |Prompts|FID Score|
     |-------|---------|
