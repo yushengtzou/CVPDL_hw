@@ -20,48 +20,53 @@
   2. Second: **high definition, limited color palette**
   3. Third: **camera shake, standard definition, splashes, restricted color**
 
-* In this homework, we will generate image captions for two purposes: one is for calculating the FID Score, and the other is for data augmentation. For the first purpose, all images in the training dataset will be used to generate texts and prompts. For the second purpose, however, since it is recommended to use images with no more than 6 bounding boxes and containing only one category, I will additionally select images that meet these criteria.
+* These prompts will be utilized for two primary purposes: FID Score calculation and data augmentation. The first will use all training dataset images, while the second will select images based on specific criteria (no more than 6 bounding boxes and a single category)
+
 
 ### 2. Text-to-Image Generation
 #### a. Generate Images from Text Grounding
 
-* Since I created three kinds of prompts, in this problem I would used all prompts to generate images. The all results are stored in ```result_23```
+* Images were generated using all three prompts, with results saved in ```result_23```
 
 ### b. Generate Images from Image Grounding
-* Same as ```a```, the results would be stored in ```result_23```
+* Following the same approach as in section 2a, results are stored in ```result_23```
 
 ### 3. Compare FID
 
 * Text Grounding
 
-  * Since I created three kinds of prompts, in this problem I would instead compare the performance of all three prompts.The FID scores are stored in ```result_23``` and shown here:
+  * I would compare the performance of all three prompts created earliar.The FID scores are stored in ```result_23``` and shown here:
 
     |Prompts|FID Score|
     |-------|---------|
-    | First | 145.8596|
-    | Second| 145.8691|
-    | Third | 142.8163|
+    | First | 144.7596|
+    | Second| 144.7691|
+    | Third | 141.7163|
 
-  * It could be shown that the differences weren't obvious. We could conclude that the description of the **species** and **background** is more significant than other details when generating images using **GLIGEN**. In the future, we could use more prompt types to verify our conjecture. 
+ * FID scores for all three prompts indicated minimal differences, suggesting the significance of species and background descriptions over other details in image generation with GLIGEN
+
 
 * Image Grounding
 
-  * We could find the **third** prompt has the lowest FID result .Therefore, we then used the **third** prompt to conduct image generating by image grounding.
+  * Since the **third** prompt has the lowest FID result. We used the **third** prompt to conduct image generating by image grounding.
 
   * The **FID result** is 144.8596. 
     |Prompts|FID Score|
     |-------|---------|
     | Third | 144.8596|
   
-  * It is interesting that the FID result of image grounding isn't better than that of text grounding. I think the reason is that I didn't choose the image I intended to generate, which led to the result of the generation not improving.
+ * The third prompt achieved the lowest FID score, surprisingly not surpassing the text grounding results. This suggests the choice of images for generation plays a critical role in outcome quality.
+
 
 ### 4. Improve Model
 
 * Brief Description
 
-  1. How to do Data Augmentation? Since the number of images containing fish is the largest, I then tried to generate a proper amount of images of other species so that the number of images from each species could be the same. In the end, there would be 1474 images in the dataset, which contains 448 original images and 1026 generated images.
+  1. Data Augmentation Strategy: Given the prevalence of fish images in the dataset, I endeavored to balance the dataset by generating additional images for other species. The goal was to equalize the representation across all species. The final dataset comprised 1474 images, including 448 original and 1026 newly generated images.
 
-  2. Under the recommendation for generating images (using images with no more than 6 bounding boxes and containing only one category), I suddenly have a question: Is it better to generate images with the same bounding boxes as the original images? Alternatively, should we randomly select the bounding boxes we want to generate (of course, within the recommended guidelines)? Therefore, I have trained the models with four datasets, the first two training datasets in which the generated images have the same bounding boxes as the images in the original dataset, while in the last two training datasets, the range of the bounding boxes of generated images is randomly selected.
+
+  2. Approach to Bounding Boxes in Generated Images: The recommended practice for image generation is to use images with no more than six bounding boxes, each depicting a single category. This led to a pivotal question: Should the generated images maintain the same bounding box configurations as their original counterparts, or should we opt for a randomized selection within the advised parameters? To explore this, I experimented with four different datasets. In two of these datasets, the generated images mirrored the bounding box layouts of the original images. For the remaining two datasets, the bounding boxes for the generated images were randomly determined, adhering to the recommended guidelines. This approach allowed for a comprehensive assessment of the impact of bounding box configurations on model training and performance.
+
 
 * The MaP Results are shown:
   |Data Augment|Bouding Boxes|Grounding|MAP|
@@ -161,26 +166,26 @@ pip uninstall -y torchtext
 * After running the following code, the results would all store in ```./result_1/```
 
   ```
-  CUDA_VISIBLE_DEVICES=0 python 1.py 
+  CUDA_VISIBLE_DEVICES=0 1_processJson.py 
   ```
 
 ### 2. Text-to-Image Generation & 3. Calculate FID
 
-* Copy the file ```23.py``` to the ```GLIGEN``` directory, move to it and execute.
+* Copy the file ```2_text2Image.py``` to the ```GLIGEN``` directory, move to it and execute.
 
   ```
-  cp -r 23.py GLIGEN/23.py
+  cp -r 2_text2Image.py GLIGEN/2_text2Image.py
   cd GLIGEN
-  python 23.py --batch_size 1
+  python 2_text2Image.py --batch_size 1
   cd ..
   ```
 
 ### 4. Improve Model
 * To generate the needed images, running 
   ```
-  cp -r 4-1.py GLIGEN/4-1.py
+  cp -r 3_textGrounding.py GLIGEN/3_textGrounding.py
   cd GLIGEN
-  python 4-1.py --batch_size 1
+  python 3_textGrounding.py --batch_size 1
   cd ..
   ```
 
@@ -291,7 +296,7 @@ pip uninstall -y torchtext
     1. Original Boxes(with Text Grounding)
 
       ```
-      python 4-2.py \
+      python 4_predict.py \
       ../result_4/originalboxes/results_TG/config.json \
       ../result_4/originalboxes/results_TG/checkpoint.pth \
       ../result_4/originalboxes/hw1_dataset_TG/val2017 \
@@ -302,7 +307,7 @@ pip uninstall -y torchtext
     2. Original Boxes(with Image Grounding)
       
       ```
-      python 4-2.py \
+      python 4_predict.py \
       ../result_4/originalboxes/results_IG/config.json \
       ../result_4/originalboxes/results_IG/checkpoint.pth \
       ../result_4/originalboxes/hw1_dataset_IG/val2017 \
@@ -313,7 +318,7 @@ pip uninstall -y torchtext
     3. Random Boxes(with Text Grounding)
       
       ```
-      python 4-2.py \
+      python 4_predict.py \
       ../result_4/randomboxes/results_TG/config.json \
       ../result_4/randomboxes/results_TG/checkpoint.pth \
       ../result_4/randomboxes/hw1_dataset_TG/val2017 \
@@ -323,7 +328,7 @@ pip uninstall -y torchtext
 
     4. Random Boxes(with Image Grounding)
       ```
-      python 4-2.py \
+      python 4_predict.py \
       ../result_4/randomboxes/results_IG/config.json \
       ../result_4/randomboxes/results_IG/checkpoint.pth \
       ../result_4/randomboxes/hw1_dataset_IG/val2017 \
@@ -339,27 +344,27 @@ pip uninstall -y torchtext
     1. Original Boxes(with Text Grounding)
       
       ```
-      python 4-3.py result_4/originalboxes/pred_TG.json \
+      python 5_evaulate.py result_4/originalboxes/pred_TG.json \
       result_4/originalboxes/hw1_dataset_TG/annotations/instances_val2017.json
       ```
 
     2. Original Boxes(with Image Grounding)
       
       ```
-      python 4-3.py result_4/originalboxes/pred_IG.json \
+      python 5_evaulate.py result_4/originalboxes/pred_IG.json \
       result_4/originalboxes/hw1_dataset_IG/annotations/instances_val2017.json
       ```
 
     3. Random Boxes(with Text Grounding)
       
       ```
-      python 4-3.py result_4/randomboxes/pred_TG.json \
+      python 5_evaulate.py result_4/randomboxes/pred_TG.json \
       result_4/randomboxes/hw1_dataset_TG/annotations/instances_val2017.json
       ```
 
     4. Random Boxes(with Image Grounding)
       
       ```
-      python 4-3.py result_4/randomboxes/pred_IG.json \
+      python 5_evaulate.py result_4/randomboxes/pred_IG.json \
       result_4/randomboxes/hw1_dataset_IG/annotations/instances_val2017.json
       ```
