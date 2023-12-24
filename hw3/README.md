@@ -68,7 +68,7 @@
   2. Approach to Bounding Boxes in Generated Images: The recommended practice for image generation is to use images with no more than six bounding boxes, each depicting a single category. This led to a pivotal question: Should the generated images maintain the same bounding box configurations as their original counterparts, or should we opt for a randomized selection within the advised parameters? To explore this, I experimented with four different datasets. In two of these datasets, the generated images mirrored the bounding box layouts of the original images. For the remaining two datasets, the bounding boxes for the generated images were randomly determined, adhering to the recommended guidelines. This approach allowed for a comprehensive assessment of the impact of bounding box configurations on model training and performance.
 
 
-* The MaP Results are shown:
+* The mAP Results are shown:
   |Data Augment|Bouding Boxes|Grounding|MAP|
   |-|-------------|---------|---|
   |X|Original|X|0.4695|
